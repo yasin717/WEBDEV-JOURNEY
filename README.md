@@ -18,4 +18,5 @@
 <p>Adamawa State University,Mubi: <nm>2017-2024</nm></p>
 <h3>Across the internet</h3>
 <i><a href="https://github.com/yasin717" target=blank>github.com/yasin717</a></i>]
+    {Project URL}(file:///C:/Users/User/OneDrive/Desktop/WEBDEV%20JOURNEY/MY%20CV.html)
 </body>
