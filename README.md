@@ -19,3 +19,4 @@
 <h3>Across the internet</h3>
 <i><a href="https://github.com/yasin717" target=blank>github.com/yasin717</a></i>]
 </body>
+https://roadmap.sh/projects/single-page-cv
